@@ -13,18 +13,19 @@ It defines:
 - canonical repo architecture  
 - cross‑repo alignment  
 
+The canonical index is:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
 ## Contribution Rules
 
 All changes MUST follow:
 
-- Update‑Sequence Charter  
-  - REPO: Governance — /global-rules/USC-vE1.1.md  
-- Canonical Document Responsibilities  
-  - REPO: Governance — /global-rules/CDR-vE1.1.md  
-- Naming & Terminology Standard  
-  - REPO: Governance — /global-rules/NTS-vE1.1.md  
-- Versioning Rules  
-  - REPO: Governance — /global-rules/VR-vE1.1.md  
+- REPO: Governance — /global-rules/USC-vE1.1.md  
+- REPO: Governance — /global-rules/CDR-vE1.1.md  
+- REPO: Governance — /global-rules/NTS-vE1.1.md  
+- REPO: Governance — /global-rules/VR-vE1.1.md  
 
 ## Process
 
