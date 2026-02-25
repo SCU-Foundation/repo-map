@@ -1,6 +1,6 @@
 {
   "version": "vE1.1",
-  "generated": "Phase 2 — Global Reference Map",
+  "generated": "Phase 2 — Global Reference Map (Updated for REPO-MAP-vE1.1.md)",
   "repos": {
     "architecture": {
       "root": [
@@ -246,7 +246,8 @@
         "CONTRIBUTING.md",
         "GOVERNANCE.md",
         "STRUCTURE.md",
-        "REPO-MAP.md"
+        "REPO-MAP-vE1.1.md",
+        "GRM-vE1.1.json"
       ]
     }
   }
