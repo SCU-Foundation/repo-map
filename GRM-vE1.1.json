@@ -1,0 +1,253 @@
+{
+  "version": "vE1.1",
+  "generated": "Phase 2 — Global Reference Map",
+  "repos": {
+    "architecture": {
+      "root": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md"
+      ],
+      "folders": {
+        "access-layer": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "access-layer.md",
+          "agents.md",
+          "attestation-flow.md",
+          "capability-surfaces.md",
+          "devices.md",
+          "extensions.md",
+          "runtime-environment.md"
+        ],
+        "domain-separation": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "domain-separation.md",
+          "dse.md",
+          "dtk.md",
+          "ste.md"
+        ],
+        "lattice-language": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "lattice-language.md",
+          "meta-semantic-layer.md",
+          "semanitc-extensions.md",
+          "semantic-web.md"
+        ],
+        "lcsl": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "attestation-requirements.md",
+          "capability-certification.md",
+          "certification-model.md",
+          "compliance-rules.md",
+          "device-certification.md",
+          "domain-transition-certification.md",
+          "extension-certification.md",
+          "lcsl.md",
+          "runtime-certification.md",
+          "safety-constraints.md",
+          "update-sequencing.md",
+          "version-floors.md"
+        ],
+        "lpl": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "attestation-integration.md",
+          "event-types.md",
+          "ledger-structure.md",
+          "lpl.md",
+          "privacy-and-boundaries.md",
+          "provenance-model.md",
+          "reversibility.md"
+        ],
+        "perceptual-safety": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "dem.md",
+          "perceptual-safety.md",
+          "rwil.md",
+          "rwim.md"
+        ],
+        "trust-stack": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "attestation.md",
+          "extension-negotiation.md",
+          "extensions.md",
+          "gatekeeper.md",
+          "keymaster.md",
+          "lcsl.md",
+          "lit.md",
+          "lpl.md",
+          "memory-integrity.md",
+          "non-user-privacy.md",
+          "trust-stack.md"
+        ]
+      }
+    },
+
+    "governance": {
+      "root": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md",
+        "architecture-model.md",
+        "change-management-charter.md",
+        "compliance-overview.md",
+        "conceptual-frame.md",
+        "global-body-summary.md",
+        "governance-charter.md",
+        "institutional-structure.md",
+        "proposal-lifecycle.md",
+        "public-sector-alignment.md",
+        "safety-governance.md",
+        "standards-registry.md",
+        "transparency-charter.md",
+        "versioning-governance.md"
+      ],
+      "folders": {
+        "global-rules": [
+          "README.md",
+          "AO-vE1.1.md",
+          "CCRM-vE1.1.md",
+          "CDI-vE1.1.md",
+          "CDR-vE1.1.md",
+          "EAM-vE1.1.md",
+          "GIC-vE1.1.md",
+          "GR-vE1.1.md",
+          "NTS-vE1.1.md",
+          "SC-vE1.1.md",
+          "SSO-vE1.1.md",
+          "USC-vE1.1.md",
+          "VR-vE1.1.md"
+        ]
+      }
+    },
+
+    "legal": {
+      "root": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md",
+        "attribution.md",
+        "licensing.md",
+        "privacy-policy.md",
+        "safety-disclosure.md",
+        "security-disclosure.md",
+        "terms-of-use.md"
+      ]
+    },
+
+    "standards": {
+      "root": [
+        "README.md",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION"
+      ],
+      "folders": {
+        "lp": ["CHANGELOG.md", "LP-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lw": ["CHANGELOG.md", "LW-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lm": ["CHANGELOG.md", "LM-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lit": ["CHANGELOG.md", "LIT-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lcsl": ["CHANGELOG.md", "LCSL-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "ts": ["CHANGELOG.md", "TS-v1.0.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "registry": [
+          "CHANGELOG.md",
+          "LICENSE",
+          "README.md",
+          "STATUS.md",
+          "VERSION",
+          "checksums.txt",
+          "metadata.json",
+          "registry.json",
+          "registry.md"
+        ]
+      }
+    },
+
+    "specifications": {
+      "root": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md"
+      ],
+      "folders": {
+        "lp": ["LP-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lw": ["LW-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lm": ["LM-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lit": ["LIT-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "lcsl": ["LCSL-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"],
+        "ts": ["TS-Spec-v1.0.md", "CHANGELOG.md", "LICENSE", "README.md", "STATUS.md", "VERSION"]
+      }
+    },
+
+    "repo-map": {
+      "root": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "STATUS.md",
+        "VERSION",
+        "CODE_OF_CONDUCT.md",
+        "CONTRIBUTING.md",
+        "GOVERNANCE.md",
+        "STRUCTURE.md",
+        "REPO-MAP.md"
+      ]
+    }
+  }
+}
