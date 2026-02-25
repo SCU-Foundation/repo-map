@@ -1,22 +1,22 @@
-# SCU Ecosystem — Repository Map
-**Version:** v1.2  
-**Status:** Final  
-**Steward:** SCU Foundation
+# Repo‑Map Repository
 
-This repository contains the canonical, authoritative map of the SCU ecosystem’s GitHub organisation.  
-It defines the complete structure of all institutional, standards, specifications, architecture, kernel, publications, and website repositories.
+This repository contains the **canonical repository index** for the SCU ecosystem.
 
-The REPO‑MAP is the single source of truth for:
-- repository names  
-- folder structures  
-- file inventories  
-- architectural domains  
-- standards and specifications placement  
-- governance and legal surfaces  
-- publication surfaces  
-- website repositories  
+The human‑readable index is:
 
-This document is maintained by the SCU Foundation and reflects the final, governance‑aligned architecture of the ecosystem.
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
 
-For the full map, see:  
-**`REPO-MAP.md`**
+The machine‑readable index is:
+
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
+These documents define:
+
+- the complete repository architecture  
+- required admin files  
+- canonical folder structures  
+- cross‑repo alignment  
+- file‑reference rules  
+- global refactor operations  
+
+This repository is used by all governance, standards, specifications, and architecture processes.
