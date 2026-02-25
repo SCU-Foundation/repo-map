@@ -4,18 +4,16 @@ This repository is governed by the SCU Foundation under the Ecosystem Era (vE1.x
 
 ## Governance Authority
 
-- **Umbrella Body:** SCU Foundation  
-- **Governance‑Root Documents:**  
-  - REPO: Governance — /governance-charter.md  
-  - REPO: Governance — /institutional-structure.md  
-  - REPO: Governance — /standards-registry.md  
-  - REPO: Governance — /architecture-model.md  
-  - REPO: Governance — /conceptual-frame.md  
-  - REPO: Governance — /compliance-overview.md  
+- REPO: Governance — /governance-charter.md  
+- REPO: Governance — /institutional-structure.md  
+- REPO: Governance — /standards-registry.md  
+- REPO: Governance — /architecture-model.md  
+- REPO: Governance — /conceptual-frame.md  
+- REPO: Governance — /compliance-overview.md  
 
 ## Role of This Repository
 
-This repository defines the **canonical repository architecture** for the entire SCU ecosystem.  
+This repository defines the **canonical repository architecture** for the SCU ecosystem.  
 It is the authoritative source of truth for:
 
 - required admin files  
@@ -23,6 +21,11 @@ It is the authoritative source of truth for:
 - repo‑scoped reference rules  
 - cross‑repo alignment  
 - ecosystem‑wide refactor operations  
+
+It is paired with:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
 
 ## Decision‑Making
 
