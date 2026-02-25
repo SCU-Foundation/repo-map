@@ -217,7 +217,9 @@ REPO-MAP/
 ├── CONTRIBUTING.md                   [EXISTS]
 ├── GOVERNANCE.md                     [EXISTS]
 ├── STRUCTURE.md                      [EXISTS]
-└── REPO-MAP.md                       [EXISTS]
+├── REPO-MAP.md                       [EXISTS]
+└── GRM-vE1.1.json                    [EXISTS]
+
 ```
 
 ---
