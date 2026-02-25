@@ -12,20 +12,23 @@ This document describes the structure of the Repo‑Map repository.
 - `CONTRIBUTING.md` — contribution process  
 - `GOVERNANCE.md` — repository governance model  
 - `LICENSE` — licensing and legal framing  
-- `REPO-MAP.md` — canonical repository index  
+- `REPO-MAP-vE1.1.md` — human‑readable canonical repository index  
+- `GRM-vE1.1.json` — machine‑readable Global Reference Map  
 
 ## Purpose
 
-This repository defines the **canonical repository architecture** for the SCU ecosystem.  
+This repository defines the **canonical repository architecture** for the SCU ecosystem.
+
 It is used by:
 
-- Governance  
-- Standards  
-- Specifications  
-- Architecture  
-- Legal  
-- PSCS  
-- Kernel  
-- All SCU Foundation programs  
+- REPO: Governance — /global-rules/USC-vE1.1.md  
+- REPO: Governance — /global-rules/CDR-vE1.1.md  
+- REPO: Governance — /global-rules/CCRM-vE1.1.md  
+- REPO: Governance — /global-rules/NTS-vE1.1.md  
 
-It is the **source of truth** for the global refactor and all future repository alignment.
+and by all future automation and refactor operations that consume:
+
+- REPO: Repo‑Map — /REPO-MAP-vE1.1.md  
+- REPO: Repo‑Map — /GRM-vE1.1.json  
+
+It is the source of truth for the global refactor and all future repository alignment.
